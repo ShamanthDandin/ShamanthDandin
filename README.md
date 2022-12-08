@@ -16,15 +16,23 @@ You can talk to me on any of these platforms!
   </a>
 </p>
 
+
+   <a href="www.linkedin.com/in/shamanth-dandin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+  </a>
+</p>
+
+
 # Languages & Technologies I use
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-brightgreen?style=for-the-badge&logo=JavaScript&logoColor=000000&color=F7DF1E">
-  <img src="https://img.shields.io/badge/-HTML-brightgreen?style=for-the-badge&logo=HTML5&logoColor=ffffff&color=E34F26">
-  <img src="https://img.shields.io/badge/-CSS-brightgreen?style=for-the-badge&logo=CSS3&logoColor=ffffff&color=1572B6">
   <img src="https://img.shields.io/badge/-C-brightgreen?style=for-the-badge&logo=C&logoColor=ffffff&color=A8B9CC">
   <img src="https://img.shields.io/badge/-Java-brightgreen?style=for-the-badge&logo=Java&logoColor=ffffff&color=007396">
-  <img src="https://img.shields.io/badge/-VS%20Code-brightgreen?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=ffffff&color=007ACC">
-  <img src="https://img.shields.io/badge/-Git-brightgreen?style=for-the-badge&logo=Git&logoColor=000000&color=F05032">
   <img src="https://img.shields.io/badge/-GitHub-brightgreen?style=for-the-badge&logo=GitHub&logoColor=ffffff&color=181717">
- 
+  <img src="https://img.shields.io/badge/-Git-brightgreen?style=for-the-badge&logo=Git&logoColor=000000&color=F05032">
+  <img src="https://img.shields.io/badge/-HTML-brightgreen?style=for-the-badge&logo=HTML5&logoColor=ffffff&color=E34F26">
+  <img src="https://img.shields.io/badge/-CSS-brightgreen?style=for-the-badge&logo=CSS3&logoColor=ffffff&color=1572B6">
+  <img src="https://img.shields.io/badge/-VS%20Code-brightgreen?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=ffffff&color=007ACC">
+  
+
+  
