@@ -14,7 +14,7 @@ You can talk to me on any of these platforms!
   <a href="https://twitter.com/ShamanthDandin" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-brightgreen?style=for-the-badge&logo=Twitter&logoColor=ffffff&color=1DA1F2" alt="Twitter">
   </a>
-</p>
+  
   <a href="www.linkedin.com/in/shamanth-dandin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
   </a>
