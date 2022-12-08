@@ -1,4 +1,4 @@
-# Hi I'm Sampi 👋
+#Hi I'm Sampi 👋
 
 Irl, I go by the name Shamanth. I'm a 19 year old Computer Science engineering student. I have a passion to constantly learn new things as well as to share my knowledge with other developers. 
 
@@ -21,15 +21,17 @@ You can talk to me on any of these platforms!
 </p>
 
 
-# Languages & Technologies I use
+# Languages I Know
 
 <p align="left">
   <img src="https://img.shields.io/badge/-C-brightgreen?style=for-the-badge&logo=C&logoColor=ffffff&color=A8B9CC">
   <img src="https://img.shields.io/badge/-Java-brightgreen?style=for-the-badge&logo=Java&logoColor=ffffff&color=007396">
-  <img src="  https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/-GitHub-brightgreen?style=for-the-badge&logo=GitHub&logoColor=ffffff&color=181717">
   <img src="https://img.shields.io/badge/-Git-brightgreen?style=for-the-badge&logo=Git&logoColor=000000&color=F05032">
   <img src="https://img.shields.io/badge/-HTML-brightgreen?style=for-the-badge&logo=HTML5&logoColor=ffffff&color=E34F26">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-VS%20Code-brightgreen?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=ffffff&color=007ACC">
   <img src="https://img.shields.io/badge/-CSS-brightgreen?style=for-the-badge&logo=CSS3&logoColor=ffffff&color=1572B6">
   <img src="https://img.shields.io/badge/-VS%20Code-brightgreen?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=ffffff&color=007ACC">
   
