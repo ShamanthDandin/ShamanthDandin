@@ -26,6 +26,7 @@ You can talk to me on any of these platforms!
 <p align="left">
   <img src="https://img.shields.io/badge/-C-brightgreen?style=for-the-badge&logo=C&logoColor=ffffff&color=A8B9CC">
   <img src="https://img.shields.io/badge/-Java-brightgreen?style=for-the-badge&logo=Java&logoColor=ffffff&color=007396">
+  <img src="  https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/-GitHub-brightgreen?style=for-the-badge&logo=GitHub&logoColor=ffffff&color=181717">
   <img src="https://img.shields.io/badge/-Git-brightgreen?style=for-the-badge&logo=Git&logoColor=000000&color=F05032">
   <img src="https://img.shields.io/badge/-HTML-brightgreen?style=for-the-badge&logo=HTML5&logoColor=ffffff&color=E34F26">
