@@ -1,7 +1,6 @@
 #Hi I'm Sampi 👋
 
-Irl, I go by the name Shamanth. I'm a 20 year old Computer Science engineering student. I have a passion to constantly learn new things as well as to share my knowledge with other developers. 
-
+Irl, I go by the name Shamanth. Passionate CS student, gaming aficionado, coding enthusiast; straightforward and versatile.
 # My Socials
 
 You can talk to me on any of these platforms!
