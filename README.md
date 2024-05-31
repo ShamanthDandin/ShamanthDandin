@@ -1,28 +1,38 @@
-<h1 align="center">Hi 👋, I'm Sampi</h1>
-<h3 align="center">Irl i go by the name Shamanth. I'm a Computer Science student who loves coding and gaming. I'm always eager to learn new things and solve problems. With a straightforward and adaptable approach, I'm excited to make a difference in the tech world.</h3>
-<h3 align="left">Connect with me:</h3>
+# Hi 👋, I'm Sampi 
+
+Irl i go by the name Shamanth. I'm a Computer Science student who loves coding and gaming. I'm always eager to learn new things and solve problems. With a straightforward and adaptable approach, I'm excited to make a difference in the tech world.
+
+# Languages & Technologies I use
+
 <p align="left">
-  <a href="https://twitter.com/shamanth_dandin" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="shamanth_dandin" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/shamanth-dandin" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="shamanth-dandin" height="30" width="40" /></a>
-  <a href="https://instagram.com/shamanth_dandin" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="shamanth_dandin" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/shamanth_dandin" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/leetcode.png" alt="shamanth_dandin" height="30" width="40" /></a>
+<img src="https://img.shields.io/badge/-JavaScript-brightgreen?style=for-the-badge&logo=JavaScript&logoColor=000000&color=F7DF1E">
+<img src="https://img.shields.io/badge/-TypeScript-brightgreen?style=for-the-badge&logo=TypeScript&logoColor=ffffff&color=3178C6">
+<img src="https://img.shields.io/badge/-HTML-brightgreen?style=for-the-badge&logo=HTML5&logoColor=ffffff&color=E34F26">
+<img src="https://img.shields.io/badge/-CSS-brightgreen?style=for-the-badge&logo=CSS3&logoColor=ffffff&color=1572B6">
+<img src="https://img.shields.io/badge/-C-brightgreen?style=for-the-badge&logo=C&logoColor=ffffff&color=A8B9CC">
+<img src="https://img.shields.io/badge/-Java-brightgreen?style=for-the-badge&logo=Java&logoColor=ffffff&color=007396">
+<img src="https://img.shields.io/badge/-Python-brightgreen?style=for-the-badge&logo=Python&logoColor=ffffff&color=3776AB">
+<img src="https://img.shields.io/badge/-Node%20JS-brightgreen?style=for-the-badge&logo=Node.js&logoColor=ffffff&color=339933">
+<img src="https://img.shields.io/badge/-Dart-brightgreen?style=for-the-badge&logo=Dart&logoColor=ffffff&color=009639">
+<img src="https://img.shields.io/badge/-React%20JS-brightgreen?style=for-the-badge&logo=React&logoColor=000000&color=61DAFB">
+<img src="https://img.shields.io/badge/-Express%20JS-brightgreen?style=for-the-badge&logo=Express&logoColor=ffffff&color=000000">
+<img src="https://img.shields.io/badge/-Next.js-brightgreen?style=for-the-badge&logo=Next.js&logoColor=ffffff&color=009639">
+<img src="https://img.shields.io/badge/-Flutter-brightgreen?style=for-the-badge&logo=Flutter&logoColor=ffffff&color=009639">
+<img src="https://img.shields.io/badge/-Firebase-brightgreen?style=for-the-badge&logo=Firebase&logoColor=ffffff&color=009639">
+<img src="https://img.shields.io/badge/-Android%20Studio-brightgreen?style=for-the-badge&logo=Android%20Studio&logoColor=ffffff&color=009639">
+<img src="https://img.shields.io/badge/-Figma-brightgreen?style=for-the-badge&logo=Figma&logoColor=ffffff&color=009639">
+<img src="https://img.shields.io/badge/-MongoDB-brightgreen?style=for-the-badge&logo=MongoDB&logoColor=ffffff&color=47A248">
+<img src="https://img.shields.io/badge/-Redis-brightgreen?style=for-the-badge&logo=Redis&logoColor=ffffff&color=DC382D">
+<img src="https://img.shields.io/badge/-VS%20Code-brightgreen?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=ffffff&color=007ACC">
+<img src="https://img.shields.io/badge/-Git-brightgreen?style=for-the-badge&logo=Git&logoColor=000000&color=F05032">
+<img src="https://img.shields.io/badge/-GitHub-brightgreen?style=for-the-badge&logo=GitHub&logoColor=ffffff&color=181717">
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/android-os.png" alt="android" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/></a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/dart.png" alt="dart" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/express.png" alt="express" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/figma.png" alt="figma" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/50/000000/nextjs.png" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" width="40" height="40"/></a>
-</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamanthdandin&show_icons=true&locale=en&layout=compact" alt="shamanthdandin" /></p>
+
+
+# Code Statistics
+
+![ShamanthDandin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShamanthDandin&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+
+![ShamanthDandin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShamanthDandin&theme=radical&custom_title=Enigma%27s+Wakatime+Stats&layout=compact)
+
+[![wakatime](https://wakatime.com/badge/user/8a7dac8b-5e0e-4a42-91ef-ac4ea5cfa52b.svg)](https://wakatime.com/@8a7dac8b-5e0e-4a42-91ef-ac4ea5cfa52b)
