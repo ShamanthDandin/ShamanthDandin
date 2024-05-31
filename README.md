@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sampi</h1>
-<h3 align="center">Irl, I go by the name Shamanth. Passionate CS student, gaming aficionado, coding enthusiast; straightforward and versatile.</h3>
+<h3 align="center">Hi, I'm Shamanth. I'm a Computer Science student who loves coding and gaming. I'm always eager to learn new things and solve problems. With a straightforward and adaptable approach, I'm excited to make a difference in the tech world.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/shamanth_dandin" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="shamanth_dandin" height="30" width="40" /></a>
