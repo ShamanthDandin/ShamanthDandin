@@ -10,7 +10,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/android-os.png" alt="android" width="40" height="40"/></a>
-	@@ -19,20 +16,16 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/></a>
   <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/dart.png" alt="dart" width="40" height="40"/></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/express.png" alt="express" width="40" height="40"/></a>
