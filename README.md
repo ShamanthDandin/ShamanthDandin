@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sampi 👋</h1>
+<h1 align="center">Hi 👋, I'm Sampi </h1>
 <h3 align="center">Irl, I go by the name Shamanth. Passionate CS student, gaming aficionado, coding enthusiast; straightforward and versatile.</h3>
 
 
