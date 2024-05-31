@@ -18,7 +18,7 @@ Irl i go by the name Shamanth. I'm a Computer Science student who loves coding a
 <img src="https://img.shields.io/badge/-Express%20JS-brightgreen?style=for-the-badge&logo=Express&logoColor=ffffff&color=000000">
 <img src="https://img.shields.io/badge/-Next.js-brightgreen?style=for-the-badge&logo=Next.js&logoColor=ffffff&color=009639">
 <img src="https://img.shields.io/badge/-Flutter-brightgreen?style=for-the-badge&logo=Flutter&logoColor=ffffff&color=009639">
-<img src="https://img.shields.io/badge/-Firebase-brightgreen?style=for-the-badge&logo=Firebase&logoColor=ffffff&color=009639">
+<img src="https://img.shields.io/badge/-Firebase-brightgreen?style=for-the-badge&logo=Firebase&logoColor=ffffff&color=FFA611">
 <img src="https://img.shields.io/badge/-Android%20Studio-brightgreen?style=for-the-badge&logo=Android%20Studio&logoColor=ffffff&color=009639">
 <img src="https://img.shields.io/badge/-Figma-brightgreen?style=for-the-badge&logo=Figma&logoColor=ffffff&color=009639">
 <img src="https://img.shields.io/badge/-MongoDB-brightgreen?style=for-the-badge&logo=MongoDB&logoColor=ffffff&color=47A248">
