@@ -31,7 +31,7 @@ Irl i go by the name Shamanth. I'm a Computer Science student who loves coding a
 
 # Code Statistics
 
-![ShamanthDandin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamanthdandin&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+![ShamanthDandin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamanthdandin&count_private=true&show_icons=true&theme=radical&rank_icon=github)
 
 ![ShamanthDandin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shamanthdandina&theme=radical&custom_title=Sampi%27s+Wakatime+Stats&layout=compact)
 
