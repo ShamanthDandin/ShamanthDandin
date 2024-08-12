@@ -10,6 +10,7 @@ Irl i go by the name Shamanth. I'm a Computer Science student who loves coding a
 <img src="https://img.shields.io/badge/-HTML-brightgreen?style=for-the-badge&logo=HTML5&logoColor=ffffff&color=E34F26">
 <img src="https://img.shields.io/badge/-CSS-brightgreen?style=for-the-badge&logo=CSS3&logoColor=ffffff&color=1572B6">
 <img src="https://img.shields.io/badge/-C-brightgreen?style=for-the-badge&logo=C&logoColor=ffffff&color=A8B9CC">
+<img src="https://img.shields.io/badge/-C-brightgreen?style=for-the-badge&logo=C++&logoColor=ffffff&color=A8B7CC">
 <img src="https://img.shields.io/badge/-Java-brightgreen?style=for-the-badge&logo=Java&logoColor=ffffff&color=007396">
 <img src="https://img.shields.io/badge/-Python-brightgreen?style=for-the-badge&logo=Python&logoColor=ffffff&color=3776AB">
 <img src="https://img.shields.io/badge/-Node%20JS-brightgreen?style=for-the-badge&logo=Node.js&logoColor=ffffff&color=215732">
