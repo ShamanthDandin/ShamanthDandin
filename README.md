@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sampi 
 
-Irl i go by the name Shamanth. I'm a Computer Science student who loves coding and gaming. I'm always eager to learn new things and solve problems. With a straightforward and adaptable approach, I'm excited to make a difference in the tech world.
+Irl i go by the name Shamanth. I'm a Computer Science student who loves coding and gaming. I'm always eager to learn new things with a straightforward approach, I'm excited to make a difference in the tech world.
 
 # Languages & Technologies I use
 
