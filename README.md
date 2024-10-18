@@ -2,6 +2,7 @@
 
 Irl i go by the name Shamanth. I'm a Computer Science student who loves coding and gaming. I'm always eager to learn new things with a straightforward approach, I'm excited to make a difference in the tech world.
 
+Portfolio <a href="https://sampi-me.vercel.app">Link</a>
 # Languages & Technologies I use
 
 <p align="left">
@@ -10,7 +11,7 @@ Irl i go by the name Shamanth. I'm a Computer Science student who loves coding a
 <img src="https://img.shields.io/badge/-HTML-brightgreen?style=for-the-badge&logo=HTML5&logoColor=ffffff&color=E34F26">
 <img src="https://img.shields.io/badge/-CSS-brightgreen?style=for-the-badge&logo=CSS3&logoColor=ffffff&color=1572B6">
 <img src="https://img.shields.io/badge/-C-brightgreen?style=for-the-badge&logo=C&logoColor=ffffff&color=A8B9CC">
-
+<img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus">
 <img src="https://img.shields.io/badge/-Java-brightgreen?style=for-the-badge&logo=Java&logoColor=ffffff&color=007396">
 <img src="https://img.shields.io/badge/-Python-brightgreen?style=for-the-badge&logo=Python&logoColor=ffffff&color=3776AB">
 <img src="https://img.shields.io/badge/-Node%20JS-brightgreen?style=for-the-badge&logo=Node.js&logoColor=ffffff&color=215732">
@@ -22,6 +23,7 @@ Irl i go by the name Shamanth. I'm a Computer Science student who loves coding a
 <img src="https://img.shields.io/badge/-Firebase-brightgreen?style=for-the-badge&logo=Firebase&logoColor=ffffff&color=FFA611">
 <img src="https://img.shields.io/badge/-Android%20Studio-brightgreen?style=for-the-badge&logo=Android%20Studio&logoColor=ffffff&color=009639">
 <img src="https://img.shields.io/badge/-Figma-brightgreen?style=for-the-badge&logo=Figma&logoColor=ffffff&color=a259ff">
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white">
 <img src="https://img.shields.io/badge/-MongoDB-brightgreen?style=for-the-badge&logo=MongoDB&logoColor=ffffff&color=47A248">
 <img src="https://img.shields.io/badge/-Redis-brightgreen?style=for-the-badge&logo=Redis&logoColor=ffffff&color=DC382D">
 <img src="https://img.shields.io/badge/-VS%20Code-brightgreen?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=ffffff&color=007ACC">
