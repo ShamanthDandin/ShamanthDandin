@@ -21,6 +21,7 @@ Portfolio <a href="https://sampi-me.vercel.app">Link</a>
 <img src="https://img.shields.io/badge/-Next.js-brightgreen?style=for-the-badge&logo=Next.js&logoColor=ffffff&color=000000">
 <img src="https://img.shields.io/badge/-Flutter-brightgreen?style=for-the-badge&logo=Flutter&logoColor=ffffff&color=42A5F5">
 <img src="https://img.shields.io/badge/-Firebase-brightgreen?style=for-the-badge&logo=Firebase&logoColor=ffffff&color=FFA611">
+<img src="https://img.shields.io/badge/AWS-%23232f3e?style=for-the-badge&logo=amazon">
 <img src="https://img.shields.io/badge/-Android%20Studio-brightgreen?style=for-the-badge&logo=Android%20Studio&logoColor=ffffff&color=009639">
 <img src="https://img.shields.io/badge/-Figma-brightgreen?style=for-the-badge&logo=Figma&logoColor=ffffff&color=a259ff">
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
